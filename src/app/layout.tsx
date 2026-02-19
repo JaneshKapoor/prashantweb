@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Inter, Playfair_Display } from "next/font/google";
 import "./globals.css";
 import Nav from "@/components/ui/Nav";
+import DisclaimerBanner from "@/components/ui/DisclaimerBanner";
 
 /* ============================================
    FONTS — Inter for body, Playfair Display for headings
@@ -63,6 +64,7 @@ export default function RootLayout({
   return (
     <html lang="en" className={`${inter.variable} ${playfair.variable}`}>
       <body className="font-[family-name:var(--font-inter)] antialiased">
+        <DisclaimerBanner />
         <Nav />
         {children}
       </body>

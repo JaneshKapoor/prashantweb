@@ -17,7 +17,7 @@ const pillars = [
         ),
         title: "Information",
         description:
-            "Transparent, accurate medicine information for every patient. Because knowing what you're taking — and what it costs — is a fundamental right, not a privilege.",
+            "Transparent, accurate medicine information for every patient. Because knowing what you're taking - and what it costs - is a fundamental right, not a privilege.",
     },
     {
         icon: (
@@ -28,7 +28,7 @@ const pillars = [
         ),
         title: "Access",
         description:
-            "Medicines, diagnostics, and consultations delivered to over 1,000 cities across India — from metros to tier-3 towns. Healthcare that goes where the patients are.",
+            "Medicines, diagnostics, and consultations delivered to over 1,000 cities across India - from metros to tier-3 towns. Healthcare that goes where the patients are.",
     },
     {
         icon: (
@@ -38,7 +38,7 @@ const pillars = [
         ),
         title: "Affordability",
         description:
-            "Quality care at prices every Indian can afford. Built on the discovery that generic medicine prices could vary by up to 90% — a problem that demanded a solution.",
+            "Quality care at prices every Indian can afford. Built on the discovery that generic medicine prices could vary by up to 90% - a problem that demanded a solution.",
     },
 ];
 
@@ -98,12 +98,12 @@ export default function Mission() {
                                     className="text-base leading-relaxed"
                                     style={{ color: "var(--color-text-secondary)" }}
                                 >
-                                    In 2021, the <strong className="text-[var(--color-text)]">Tata Group</strong> —
-                                    India&rsquo;s most trusted conglomerate — acquired a majority stake in
+                                    In 2021, the <strong className="text-[var(--color-text)]">Tata Group</strong> -
+                                    India&rsquo;s most trusted conglomerate - acquired a majority stake in
                                     1mg. The partnership brought more than capital: it added
                                     the trust and institutional depth of the Tata name to
                                     1mg&rsquo;s technology-first approach to healthcare. Today, Tata 1mg
-                                    operates India&rsquo;s most complete digital health platform —
+                                    operates India&rsquo;s most complete digital health platform -
                                     from online pharmacy and diagnostics to corporate health
                                     solutions and an expanding offline clinic network.
                                 </p>

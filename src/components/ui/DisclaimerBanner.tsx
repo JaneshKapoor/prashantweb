@@ -8,7 +8,7 @@
 
 export default function DisclaimerBanner() {
     const message =
-        "⚠ This is a test website created for Prashant Tandon only. All images, information, and this website will be discarded once stated by Prashant Tandon himself. ⚠";
+        "⚠ This is a test website created for Prashant Tandon only. All images, information, and this website will be discarded if stated by Prashant Tandon himself. ⚠";
 
     return (
         <div className="relative z-[60] w-full overflow-hidden bg-[var(--color-primary)] py-2">

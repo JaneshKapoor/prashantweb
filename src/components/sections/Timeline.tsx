@@ -13,7 +13,7 @@ const timelineData = [
         year: "2002",
         title: "IIT Delhi",
         description:
-            "B.Tech in Chemical Engineering. Captain of the basketball team — learned to lead, compete, and bring a team together.",
+            "B.Tech in Chemical Engineering. Captain of the basketball team - learned to lead, compete, and bring a team together.",
     },
     {
         year: "2002–07",
@@ -25,7 +25,7 @@ const timelineData = [
         year: "2007",
         title: "Stanford GSB",
         description:
-            "MBA at Stanford University. Surrounded by founders and bold ideas — caught the entrepreneurship bug that would define the next chapter.",
+            "MBA at Stanford University. Surrounded by founders and bold ideas - caught the entrepreneurship bug that would define the next chapter.",
     },
     {
         year: "2007–10",
@@ -43,13 +43,13 @@ const timelineData = [
         year: "2011",
         title: "Co-Founded HealthKart",
         description:
-            "With Sameer Maheshwari, built India's #1 nutrition e-commerce platform. Started with healthCHAKRA — software for doctors — before pivoting.",
+            "With Sameer Maheshwari, built India's #1 nutrition e-commerce platform. Started with healthCHAKRA - software for doctors - before pivoting.",
     },
     {
         year: "2012–14",
         title: "The 90% Discovery",
         description:
-            "Built HealthKart+, a medicine information app. Discovered that generic medicine prices varied by up to 90% across brands — a massive transparency problem.",
+            "Built HealthKart+, a medicine information app. Discovered that generic medicine prices varied by up to 90% across brands - a massive transparency problem.",
     },
     {
         year: "2015",
@@ -73,7 +73,7 @@ const timelineData = [
         year: "2021–Now",
         title: "Building the Health Stack",
         description:
-            "Leading India's most complete omni-channel outpatient health platform — online + offline clinics, diagnostics, cold-chain delivery, and corporate healthcare across 1,000+ cities.",
+            "Leading India's most complete omni-channel outpatient health platform - online + offline clinics, diagnostics, cold-chain delivery, and corporate healthcare across 1,000+ cities.",
     },
 ];
 

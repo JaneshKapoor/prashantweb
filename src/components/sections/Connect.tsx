@@ -49,7 +49,7 @@ export default function Connect() {
                             <div className="mt-10 space-y-4">
                                 {/* LinkedIn */}
                                 <a
-                                    href="https://www.linkedin.com/in/prashanttandon/"
+                                    href="https://www.linkedin.com/in/prashant-tandon-2802a4/"
                                     target="_blank"
                                     rel="noopener noreferrer"
                                     className="group flex items-center gap-4 text-[var(--color-text-muted)] transition-colors hover:text-white"

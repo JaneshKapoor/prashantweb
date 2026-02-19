@@ -51,22 +51,22 @@ export default function About() {
                                 <p>
                                     Before Prashant Tandon became the face of India&rsquo;s largest
                                     digital health platform, he was the captain of the basketball
-                                    team at IIT Delhi — competitive, team-oriented, and quietly
+                                    team at IIT Delhi - competitive, team-oriented, and quietly
                                     driven. A Chemical Engineering degree gave him rigor;
                                     Stanford&rsquo;s GSB gave him the spark of entrepreneurship.
                                 </p>
                                 <p>
                                     Between those two worlds came formative stints: Hindustan
                                     Unilever&rsquo;s leadership program across Asia, then
-                                    McKinsey&rsquo;s healthcare practice in San Francisco — where he
+                                    McKinsey&rsquo;s healthcare practice in San Francisco - where he
                                     saw, firsthand, what a well-functioning health system could look
                                     like. In 2010, he returned to India with one clear conviction:
                                     the country&rsquo;s healthcare needed reinvention, from the
                                     ground up.
                                 </p>
                                 <p>
-                                    He co-founded HealthKart in 2011 — initially building software
-                                    for doctors — and grew it into India&rsquo;s leading nutrition
+                                    He co-founded HealthKart in 2011 - initially building software
+                                    for doctors - and grew it into India&rsquo;s leading nutrition
                                     e-commerce platform. But it was a discovery inside HealthKart
                                     that changed everything: a mobile app revealing that the same
                                     generic medicine salt could vary in price by up to 90% across

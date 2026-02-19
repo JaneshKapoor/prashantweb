@@ -118,7 +118,7 @@ export default function Hero() {
                         <div className="relative overflow-hidden rounded-2xl bg-gradient-to-br from-[#F0F4F8] to-[#E2E8F0]">
                             {/* Replace with actual photo */}
                             <Image
-                                src="/images/prashant.jpg"
+                                src="/images/prashantphoto.png"
                                 alt="Prashant Tandon — Co-Founder & CEO, Tata 1mg"
                                 width={480}
                                 height={560}

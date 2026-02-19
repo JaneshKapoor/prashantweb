@@ -124,7 +124,7 @@ export default function Mission() {
                                 <div className="relative overflow-hidden rounded-xl bg-gradient-to-br from-[#E8EDF2] to-[#D1D9E2]">
                                     {/* Speaker/event image placeholder */}
                                     <Image
-                                        src="/images/prashant-3.jpg"
+                                        src="/images/tata1mg.png"
                                         alt="Prashant Tandon speaking at an event"
                                         width={400}
                                         height={300}

@@ -64,7 +64,7 @@ export default function Connect() {
 
                                 {/* Twitter/X */}
                                 <a
-                                    href="#" /* TODO: Replace with actual Twitter/X link */
+                                    href="https://x.com/tandon_prashant" /* TODO: Replace with actual Twitter/X link */
                                     className="group flex items-center gap-4 text-[var(--color-text-muted)] transition-colors hover:text-white"
                                 >
                                     <div className="flex h-11 w-11 items-center justify-center rounded-lg border border-gray-700 transition-colors group-hover:border-[var(--color-primary)] group-hover:bg-[var(--color-primary)]/10">
@@ -77,7 +77,7 @@ export default function Connect() {
 
                                 {/* Email */}
                                 <a
-                                    href="mailto:contact@prashanttandon.com" /* TODO: Replace with actual email */
+                                    href="mailto:kapoorjanesh.2003@gmail.com" /* TODO: Replace with actual email */
                                     className="group flex items-center gap-4 text-[var(--color-text-muted)] transition-colors hover:text-white"
                                 >
                                     <div className="flex h-11 w-11 items-center justify-center rounded-lg border border-gray-700 transition-colors group-hover:border-[var(--color-primary)] group-hover:bg-[var(--color-primary)]/10">

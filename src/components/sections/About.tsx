@@ -20,7 +20,7 @@ export default function About() {
                             <div className="relative overflow-hidden rounded-2xl bg-gradient-to-br from-[#F8F9FA] to-[#EDF2F7]">
                                 {/* Replace with actual second photo */}
                                 <Image
-                                    src="/images/prashant-2.jpg"
+                                    src="/images/prashant5.png"
                                     alt="Prashant Tandon"
                                     width={560}
                                     height={640}
@@ -74,7 +74,7 @@ export default function About() {
                                     company — spun off and rebranded as{" "}
                                     <strong>1mg</strong> in 2015 — and eventually, after Tata
                                     Digital&rsquo;s acquisition in 2021, it became{" "}
-                                    <strong>Tata 1mg</strong>, valued at over $1.25 billion.
+                                    <strong>Tata 1mg</strong>, now valued at over $1.25 billion.
                                 </p>
                                 <p>
                                     Today, Prashant leads a platform that delivers medicines,
